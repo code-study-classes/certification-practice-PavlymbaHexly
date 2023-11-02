@@ -12,7 +12,7 @@
     "hooks": {
       "pre-commit": "npm run lint"
     }
-  },  
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
